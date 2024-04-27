@@ -2,7 +2,6 @@
     width: 575px;
     height: 77px;
     gap: 0px;
-    opacity: 0px;
     margin-left: auto;
 
     display: flex;
@@ -21,7 +20,6 @@
     width: 48px;
     height: 48px;
     gap: 0px;
-    opacity: 0px;
     order: 2;
 }
 
@@ -35,7 +33,6 @@
     top: 192px;
     left: 635px;
     gap: 0px;
-    opacity: 0px;
 
     padding: 8px 13px;
     border-radius: 15px;
@@ -55,7 +52,6 @@
     width: 40px;
     height: 22px;
     gap: 0px;
-    opacity: 0px;
 
     font-family: Montserrat;
     font-size: 18px;
@@ -70,7 +66,6 @@
     top: 224px;
     left: 648px;
     gap: 0px;
-    opacity: 0px;
 
     font-family: Montserrat;
     font-size: 16px;
@@ -83,7 +78,6 @@
     width: 26px;
     height: 12px;
     gap: 0px;
-    opacity: 0px;
 
     font-family: Montserrat;
     font-size: 10px;

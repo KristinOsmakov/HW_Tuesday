@@ -2,7 +2,6 @@
     width: 462px;
     height: 77px;
     gap: 0px;
-    opacity: 0px;
 
 }
 
@@ -17,14 +16,12 @@
     width: 48px;
     height: 48px;
     gap: 0px;
-    opacity: 0px;
 }
 
 .friendText {
     width: 414px;
     height: 60px;
     gap: 0px;
-    opacity: 0px;
 
     background: #F5F7FB;
 
@@ -44,7 +41,6 @@
     height: 20px;
     gap: 0px;
     margin-bottom: 4px;
-    opacity: 0px;
 
     font-family: Montserrat;
     font-size: 16px;
@@ -59,7 +55,6 @@
     width: 374px;
     height: 20px;
     gap: 0px;
-    opacity: 0px;
 
     font-family: Montserrat;
     font-size: 16px;
@@ -74,7 +69,6 @@
     width: 29px;
     height: 12px;
     gap: 0px;
-    opacity: 0px;
 
     font-family: Montserrat;
     font-size: 10px;
