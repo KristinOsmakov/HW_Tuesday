@@ -1,17 +1,50 @@
 .message {
+    width: 575px;
+    height: 77px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: auto;
 
+    display: flex;
+    flex-direction: column;
 }
 
 .imageAndText {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 
 }
 
 .imageAndText img {
-
+    width: 48px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    order: 2;
 }
 
 .text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
 
+    width: 527px;
+    height: 60px;
+    top: 192px;
+    left: 635px;
+    gap: 0px;
+    opacity: 0px;
+
+    padding: 8px 13px;
+    border-radius: 15px;
+
+    background: #0066CC;
+
+    box-shadow: 0px 1px 2px 0px #1D21261A;
+    box-shadow: 0px 5px 20px 0px #1D212608;
+    order: 1;
 }
 
 .text:after {
@@ -19,13 +52,47 @@
 }
 
 .name {
+    width: 40px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
 
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    text-align: right;
 }
 
 .messageText {
+    width: 489px;
+    height: 20px;
+    top: 224px;
+    left: 648px;
+    gap: 0px;
+    opacity: 0px;
 
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
 }
 
 .time {
+    width: 26px;
+    height: 12px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 12.19px;
+    text-align: left;
+
+    color: #000000;
+
+    margin-left: auto;
 
 }

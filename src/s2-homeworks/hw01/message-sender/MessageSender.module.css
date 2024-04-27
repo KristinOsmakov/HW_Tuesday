@@ -3,11 +3,41 @@
 }
 
 .textarea {
+    width: 976px;
+    height: 40px;
+    top: 432px;
+    left: 70px;
+    gap: 0px;
+    margin-right: 42px;
+    border-radius: 20px;
+    border: none;
+    opacity: 0px;
+
+    background: #F5F7FB;
+
+    box-shadow: 0px 1px 2px 0px #1D21261A;
+    box-shadow: 0px 5px 20px 0px #1D212608;
 
 }
 
 .button {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.5px;
+    color: #FFFFFF;
 
+    width: 120px;
+    height: 40px;
+    top: 432px;
+    left: 1090px;
+    gap: 0px;
+    border-radius: 20px;
+    border: none;
+    opacity: 0px;
+    cursor: pointer;
+
+    background: #0066CC;
 }
 
 .button:hover {
