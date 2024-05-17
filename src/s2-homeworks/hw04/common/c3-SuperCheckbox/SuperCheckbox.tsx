@@ -32,6 +32,7 @@ const SuperCheckbox: React.FC<SuperCheckboxPropsType> = (
         if(onChangeChecked){
             onChangeChecked(Checked)
         }
+        onChange && onChange(e)
 
     }
 
