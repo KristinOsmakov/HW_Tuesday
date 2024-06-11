@@ -1,4 +1,4 @@
-/* Sidebar.module.css */
+/*!* Sidebar.module.css *!*/
 .sidebar {
     position: fixed;
     top: 0;
@@ -64,7 +64,6 @@
     width: 24px;
     height: 24px;
 }
-
 
 
 
