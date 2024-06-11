@@ -12,9 +12,9 @@ import s from './HW7.module.css'
 * */
 
 const arr = [
-    { id: 1, value: 'x' },
-    { id: 2, value: 'y' },
-    { id: 3, value: 'z' },
+    { id: 1, value: 'PRE-JUNIOR' },
+    { id: 2, value: 'JUNIOR' },
+    { id: 3, value: 'JUNIOR-PLUS' },
 ] // value может быть изменено
 
 export const HW7 = () => {
