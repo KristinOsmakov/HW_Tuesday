@@ -10,12 +10,8 @@ import s from './HW7.module.css'
 * 3 - в файле SuperRadio.tsx дописать name, checked, value (узнать для чего в радио name)
 * 4 - сделать стили в соответствии с дизайном
 * */
-export type arrType = {
-    id: number
-    value: string | number
-}
 
-const arr: arrType[] = [
+const arr = [
     { id: 1, value: 'PRE-JUNIOR' },
     { id: 2, value: 'JUNIOR' },
     { id: 3, value: 'JUNIOR-PLUS' },
